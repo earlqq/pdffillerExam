@@ -44,7 +44,7 @@ function startColorSwitch (array) {
   }
 }
 
-//array of items,
+//array of items
 var params = {
   lines: [
     {
